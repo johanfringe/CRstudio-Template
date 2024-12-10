@@ -1,5 +1,4 @@
 ---
-customId: "B1"
 type: "bio"
-date: "2001"
+title: "bio 1"
 ---
