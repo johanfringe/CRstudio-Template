@@ -3,7 +3,7 @@ import React from "react";
 const AdminPage = () => (
   <div>
     <h1>Admin Page</h1>
-    <p>Beheerderspaneel hier beschikbaar.</p>
+    <p>Beheerderspaneel is hier beschikbaar.</p>
   </div>
 );
 
